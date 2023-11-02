@@ -1,1 +1,5 @@
-console.log("Restarurant Page, Hello!");
+
+
+import { initializeWebsite } from "./website";
+
+initializeWebsite();
